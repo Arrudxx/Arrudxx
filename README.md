@@ -33,7 +33,7 @@
 
 <!--No que eu estou trabalhando e estudando -->
 <h3 align="center">💼 Things that I'm currently studying and working on 📚</h3>
-<img height="30" src=https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_html.png?raw=true"> <strong>HTML 5</strong> <br>
+<img height="15" src=https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_html.png?raw=true"> <strong>HTML 5</strong> <br>
 
 <img height="30" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_css.png?raw=true"> <strong>CSS 3</strong> <br>	
 
