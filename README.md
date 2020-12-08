@@ -2,11 +2,7 @@
 <h1 align="center"> printf👋("<em>hello world</em> ");</h1><hr>
 
 <!--Sobre mim -->
-<p>	Hello my name is <strong>Daniel Arruda</strong> have 18 years, I am a music lover programmer looking for an internship in the field or an opportunity to develop junior 
-</p>
-
-<p>🎓Currently studying systems analysis and development in the 3rd semester of Universidade Paulista Unip </p>
-
+<p>	Hello my name is <strong>Daniel Arruda</strong> have 18 years, I am a music lover programmer looking for an internship in the field or an opportunity to develop junior, 🎓Currently studying systems analysis and development in the 3rd semester of Universidade Paulista (Unip). </p>
 
 <!--Meus desafios -->
 <h3 align="center">🌏Challenges I'm currently challenging myself:</h3>
@@ -35,67 +31,30 @@
 	</li>
 </ul>
 
-
-
 <!--No que eu estou trabalhando e estudando -->
 <h3 align="center">💼 Things that I'm currently studying and working on 📚</h3>
 
-<ul>
-	<li>
 		<img height="35" src=https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_html.png?raw=true"> HTML 5 <br>
-	</li>
-</ul>
 
-<ul>
-	<li>	
-		<img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_css.png?raw=true"> CSS 3 <br>
-	</li>
-</ul>
-	
-<ul>
-	<li>
+		<img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_css.png?raw=true"> CSS 3 <br>	
+
 		<img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_javascript.png?raw=true"> JAVASCRIPT <br>
-	</li>
-</ul>		
-	
-<ul>		
-	<li>
-		<img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_C.png?raw=true"> LINGUAGEM C <br>
-	</li>		
-</ul>
 
-<ul>		
-	<li>
+		<img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_C.png?raw=true"> LINGUAGEM C <br>
+
 		<img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_python.png?raw=true"> PYTHON <br>
-	</li>		
-</ul>
 
 <!--Ferramentas que utilizo -->
-<h3 align="center" >💻Tools</h3>
+<h3 align="center" >💻tools I currently use</h3>
 
-<ul>
-	<li>
+
 		<img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_vscode.png?raw=true"> VS CODE
-	</li>
-</ul>
 
-<ul>
-	<li>
 		<img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_sublime_text.png?raw=true"> SUBLIME TEXT 3
-	</li>
-</ul>
 
-<ul>
-	<li>
 		<img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_pycharm.png?raw=true"> PY CHARM
-	</li>
-</ul>
 
-<ul>
-	<li>
 		<img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/code-blocks-icon.png?raw=true">CODE BLOCKS
-	</li>
-</ul>
 
 <!--Meu Contato -->
 <h3 align="center">Contact✉️</h3>
