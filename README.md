@@ -33,7 +33,8 @@
 <!--No que eu estou trabalhando e estudando -->
 <h3 align="center">💼 Things that I'm currently studying and working on 📚</h3>
 
-<a href="https://www.w3schools.com/html/"><img height="30" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_html.png?raw=true"></a> <strong>HTML 5</strong> Linguagem de marcação para a World Wide Web e é uma tecnologia chave da Internet. <br>	
+<a href="https://www.w3schools.com/html/"><img height="30" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_html.png?raw=true"></a> <strong>HTML 5</strong> is 
+Markup language for the World Wide Web and is a key Internet technology. <br>	
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img height="30" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_css.png?raw=true"></a>  <strong>CSS 3</strong> is a style language used to describe the presentation of a document written in HTML or XML. <br>	
 
