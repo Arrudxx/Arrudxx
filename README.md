@@ -33,13 +33,13 @@
 <!--No que eu estou trabalhando e estudando -->
 <h3 align="center">💼 Things that I'm currently studying and working on 📚</h3>
 
-<a href="https://www.w3schools.com/html/"><img height="30" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_html.png?raw=true"></a> <strong>HTML 5</strong> Linguagem de marcação para a World Wide Web e é uma tecnologia chave da Internet. <br>	
+<a href="https://www.w3schools.com/html/"><img height="30" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_html.png?raw=true"></a> <strong>HTML 5</strong> é uma linguagem de marcação para a World Wide Web e é uma tecnologia chave da Internet. <br>	
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img height="30" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_css.png?raw=true"></a>  <strong>CSS 3</strong> é uma linguagem de estilo usada para descrever a apresentação de um documento escrito em HTML ou em XML. <br>	
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img height="30" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_javascript.png?raw=true"></a>  <strong>JAVASCRIPT</strong> é uma linguagem leve, interpretada e baseada em objetos com funções de primeira classe, mais conhecida como a linguagem de script para páginas Web. <br>
 
-<a href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programação)"></a><img height="30" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_C.png?raw=true"> <strong>LINGUAGEM C</strong> A linguagem C ainda é uma das mais populares do mercado devido às diversas vantagens que apresenta. Por isso, é quase uma obrigatoriedade no currículo de uma pessoa que trabalha com desenvolvimento. <br>
+<a href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programação)"></a><img height="30" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_C.png?raw=true"> A <strong>LINGUAGEM C</strong> ainda é uma das mais populares do mercado devido às diversas vantagens que apresenta. Por isso, é quase uma obrigatoriedade no currículo de uma pessoa que trabalha com desenvolvimento. <br>
 
 <a href="https://www.python.org"><img height="30" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_python.png?raw=true"> </a><strong>PYTHON</strong> é uma linguagem de programação de alto nível,[5] interpretada, de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.<br>
 
@@ -51,7 +51,7 @@
 
 <a href="https://www.sublimetext.com"><img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_sublime_text.png?raw=true"></a> <strong>SUBLIME TEXT 3</strong>é um editor de código-fonte[2] multi-plataforma e shareware com uma interface de programação de aplicativos (API) para a linguagem Python. Ele suporta nativamente muitas linguagens de programação e linguagens de marcação.
 
-<a href="https://www.jetbrains.com/pt-br/pycharm/"><img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_pycharm.png?raw=true"> </a> <strong>PY CHARM</strong> é um IDE (ambiente de desenvolvimento integrado) utilizado para programação e Python.
+<a href="https://www.jetbrains.com/pt-br/pycharm/"><img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_pycharm.png?raw=true"> </a> <strong>PY CHARM</strong> é uma IDE (ambiente de desenvolvimento integrado) utilizado para programação e Python.
 
 <a href="http://www.codeblocks.org"><img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/code-blocks-icon.png?raw=true"></a> <strong>CODE BLOCKS</strong> é um ambiente de desenvolvimento integrado de código aberto e multiplataforma para C e C++.
 
