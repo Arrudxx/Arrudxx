@@ -33,27 +33,27 @@
 <!--No que eu estou trabalhando e estudando -->
 <h3 align="center">💼 Things that I'm currently studying and working on 📚</h3>
 
-<a href="https://www.w3schools.com/html/"><img height="30" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_html.png?raw=true"></a> <strong>HTML 5</strong> é uma linguagem de marcação para a World Wide Web e é uma tecnologia chave da Internet. <br>	
+<a href="https://www.w3schools.com/html/"><img height="30" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_html.png?raw=true"></a> <strong>HTML 5</strong> Linguagem de marcação para a World Wide Web e é uma tecnologia chave da Internet. <br>	
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img height="30" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_css.png?raw=true"></a>  <strong>CSS 3</strong> é uma linguagem de estilo usada para descrever a apresentação de um documento escrito em HTML ou em XML. <br>	
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img height="30" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_css.png?raw=true"></a>  <strong>CSS 3</strong> is a style language used to describe the presentation of a document written in HTML or XML. <br>	
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img height="30" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_javascript.png?raw=true"></a>  <strong>JAVASCRIPT</strong> é uma linguagem leve, interpretada e baseada em objetos com funções de primeira classe, mais conhecida como a linguagem de script para páginas Web. <br>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img height="30" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_javascript.png?raw=true"></a>  <strong>JAVASCRIPT</strong> is a lightweight, interpreted and object-based language with first-class functions, better known as the scripting language for web pages. <br>
 
-<a href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programação)"></a><img height="30" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_C.png?raw=true"> A <strong>LINGUAGEM C</strong> ainda é uma das mais populares do mercado devido às diversas vantagens que apresenta. Por isso, é quase uma obrigatoriedade no currículo de uma pessoa que trabalha com desenvolvimento. <br>
+<a href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programação)"></a><img height="30" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_C.png?raw=true"> The <strong>LINGUAGEM C</strong> it is still one of the most popular on the market due to the many advantages it presents. Therefore, it is almost mandatory in the curriculum of a person who works with development. <br>
 
-<a href="https://www.python.org"><img height="30" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_python.png?raw=true"> </a><strong>PYTHON</strong> é uma linguagem de programação de alto nível,[5] interpretada, de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.<br>
+<a href="https://www.python.org"><img height="30" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_python.png?raw=true"> </a><strong>PYTHON</strong> is a high-level, interpreted, scripting, imperative, object-oriented, functional, dynamic and strong typing programming language.<br>
 
 <!--Ferramentas que utilizo -->
 <h3 align="center" >💻tools I currently use</h3>
 
 
-<a href="https://code.visualstudio.com"><img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_vscode.png?raw=true"></a> <strong>VS CODE</strong> é um editor de texto multiplataforma disponibilizado pela Microsoft para o desenvolvimento de aplicações web, com suporte principalmente a ASP.NET 5 e Node. js Adicionalmente, o editor possui suporte à sintaxe de diversas linguagens como Python, Ruby, C++.
+<a href="https://code.visualstudio.com"><img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_vscode.png?raw=true"></a> <strong>VS CODE</strong> is a multiplatform text editor made available by Microsoft for the development of web applications, with support mainly for ASP.NET 5 and Node. js Additionally, the editor has support for the syntax of several languages such as Python, Ruby, C ++. <br>
 
-<a href="https://www.sublimetext.com"><img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_sublime_text.png?raw=true"></a> <strong>SUBLIME TEXT 3</strong>é um editor de código-fonte[2] multi-plataforma e shareware com uma interface de programação de aplicativos (API) para a linguagem Python. Ele suporta nativamente muitas linguagens de programação e linguagens de marcação.
+<a href="https://www.sublimetext.com"><img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_sublime_text.png?raw=true"></a> <strong>SUBLIME TEXT 3</strong>is a cross-platform and shareware source code editor with an application programming interface (API) for the Python language. It natively supports many programming languages and markup languages. <br>
 
-<a href="https://www.jetbrains.com/pt-br/pycharm/"><img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_pycharm.png?raw=true"> </a> <strong>PY CHARM</strong> é uma IDE (ambiente de desenvolvimento integrado) utilizado para programação e Python.
+<a href="https://www.jetbrains.com/pt-br/pycharm/"><img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_pycharm.png?raw=true"> </a> <strong>PY CHARM</strong> is an IDE (integrated development environment) used for programming and Python. <br>
 
-<a href="http://www.codeblocks.org"><img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/code-blocks-icon.png?raw=true"></a> <strong>CODE BLOCKS</strong> é um ambiente de desenvolvimento integrado de código aberto e multiplataforma para C e C++.
+<a href="http://www.codeblocks.org"><img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/code-blocks-icon.png?raw=true"></a> <strong>CODE BLOCKS</strong> is an open source, multiplatform integrated development environment for C and C ++. <br>
 
 <!--Meu Contato -->
 <h3 align="center">Contact✉️</h3>
