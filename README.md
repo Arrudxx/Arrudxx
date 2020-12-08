@@ -1,7 +1,7 @@
 <h1 align="center"> printf👋("<em>hello world</em> ");</h1><hr>
 
 <!--Sobre mim -->
-<p>	Hello my name is <strong>Daniel Arruda</strong> have 18 years, I am a music lover programmer looking for an internship in the field or an opportunity to develop junior, 🎓Currently studying systems analysis and development in the 3rd semester of Universidade Paulista (Unip). </p>
+<p>	Hello my name is <strong>Daniel Arruda</strong>, have 18 years, I am a music lover programmer looking for an internship in the field or an opportunity to develop junior, 🎓Currently studying systems analysis and development in the 3rd semester of Universidade Paulista (Unip). </p>
 
 <!--Meus desafios -->
 <h3 align="center">🌏Challenges I'm currently challenging myself:</h3>
