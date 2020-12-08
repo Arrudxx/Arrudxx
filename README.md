@@ -33,7 +33,6 @@
 
 <!--No que eu estou trabalhando e estudando -->
 <h3 align="center">💼 Things that I'm currently studying and working on 📚</h3>
-
 <img height="35" src=https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_html.png?raw=true"> HTML 5 <br>
 
 <img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_css.png?raw=true"> CSS 3 <br>	
@@ -63,7 +62,6 @@
 
 <!--Imagem e link do meu linkedin-->
 <a href="https://www.linkedin.com/in/daniel-arruda-4623331a4/"><img src="https://img.shields.io/badge/-Daniel Arruda-blue?style=flat&logo=Linkedin&logoColor=white"></a>
-
 <!--Imagem e link do meu Gmail-->
 <a href="mailto:D4niel.arruda@gmail.com"><img src="https://img.shields.io/badge/-D4niel.arruda-c14438?style=flat&logo=Gmail&logoColor=white"></a>
 
