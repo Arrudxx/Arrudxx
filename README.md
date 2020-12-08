@@ -34,27 +34,27 @@
 <!--No que eu estou trabalhando e estudando -->
 <h3 align="center">💼 Things that I'm currently studying and working on 📚</h3>
 
-		<img height="35" src=https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_html.png?raw=true"> HTML 5 <br>
+<img height="35" src=https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_html.png?raw=true"> HTML 5 <br>
 
-		<img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_css.png?raw=true"> CSS 3 <br>	
+<img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_css.png?raw=true"> CSS 3 <br>	
 
-		<img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_javascript.png?raw=true"> JAVASCRIPT <br>
+<img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_javascript.png?raw=true"> JAVASCRIPT <br>
 
-		<img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_C.png?raw=true"> LINGUAGEM C <br>
+<img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_C.png?raw=true"> LINGUAGEM C <br>
 
-		<img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_python.png?raw=true"> PYTHON <br>
+<img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_python.png?raw=true"> PYTHON <br>
 
 <!--Ferramentas que utilizo -->
 <h3 align="center" >💻tools I currently use</h3>
 
 
-		<img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_vscode.png?raw=true"> VS CODE
+<img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_vscode.png?raw=true"> VS CODE
 
-		<img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_sublime_text.png?raw=true"> SUBLIME TEXT 3
+<img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_sublime_text.png?raw=true"> SUBLIME TEXT 3
 
-		<img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_pycharm.png?raw=true"> PY CHARM
+<img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_pycharm.png?raw=true"> PY CHARM
 
-		<img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/code-blocks-icon.png?raw=true">CODE BLOCKS
+<img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/code-blocks-icon.png?raw=true">CODE BLOCKS
 
 <!--Meu Contato -->
 <h3 align="center">Contact✉️</h3>
