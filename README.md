@@ -50,7 +50,7 @@ Markup language for the World Wide Web and is a key Internet technology. <br>
 
 <a href="https://code.visualstudio.com"><img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_vscode.png?raw=true"></a> <strong>VS CODE</strong> is a multiplatform text editor made available by Microsoft for the development of web applications, with support mainly for ASP.NET 5 and Node. js Additionally, the editor has support for the syntax of several languages such as Python, Ruby, C ++. <br>
 
-<a href="https://www.sublimetext.com"><img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_sublime_text.png?raw=true"></a> <strong>SUBLIME TEXT 3</strong>is a cross-platform and shareware source code editor with an application programming interface (API) for the Python language. It natively supports many programming languages and markup languages. <br>
+<a href="https://www.sublimetext.com"><img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_sublime_text.png?raw=true"></a> <strong>SUBLIME TEXT 3 </strong>is a cross-platform and shareware source code editor with an application programming interface (API) for the Python language. It natively supports many programming languages and markup languages. <br>
 
 <a href="https://www.jetbrains.com/pt-br/pycharm/"><img height="35" src="https://github.com/Arrudxx/Arrudxx/blob/main/Img/icon_pycharm.png?raw=true"> </a> <strong>PY CHARM</strong> is an IDE (integrated development environment) used for programming and Python. <br>
 
