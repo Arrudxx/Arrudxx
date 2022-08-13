@@ -1,4 +1,8 @@
-### Olá Me chamo Daniel Arruda
+### Olá Me Chamo Daniel Arruda😎
+
+<div align="center">Desde dos 16 anos trabalhando na área de TI como jovem aprendiz sempre estou muito muito focado e antenado para me tornar um excelente profissional. à procura de um cargo de desenvolvedor júnior, e tenho conhecimento  nas linguagens de programação como linguagem C, C#, HTML 5, CSS 3, JavaScript e além de framework como React.</div>
+
+##
 
 <div align="center">
   <a href="https://github.com/Arrudxx">
