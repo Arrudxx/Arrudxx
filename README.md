@@ -1,34 +1,58 @@
-### Olá Me Chamo Daniel Arruda😎
+<h1 align="center">Olá Me Chamo Daniel Arruda 😎</h1>
 
-<div align="center">Desde dos 16 anos trabalhando na área de TI como jovem aprendiz sempre estou muito muito focado e antenado para me tornar um excelente profissional. À procura de um cargo de desenvolvedor júnior, e tenho conhecimento  nas linguagens de programação como linguagem C, C#, HTML 5, CSS 3, JavaScript e além de framework como React.</div>
+###
 
-##
+<p align="left">Desenvolvedor Python Pleno | Determinado, Disciplinado e Apaixonado por Aprender</p>
+
+###
+
+<h2 align="center">Sobre Mim</h2>
+
+###
+
+<p align="left">😎 Sobre Mim: <br>Tenho 21 anos e sou formado em Análise e Desenvolvimento de Sistemas (2020-2022) pela Universidade Paulista (Unip).<br><br>💻 Experiência Profissional: <br>Atualmente, trabalho como Desenvolvedor Pleno, onde sou responsável por todo o processo de ETL, integração e criação de API e gerenciamento de DataLake. Além de trabalhar com SQL e Power BI para extração e análise de dados.<br><br>🏆 Prêmios e Reconhecimentos:<br>Destaque do Ano (2023) na TOOLS Digital Services - Referência em Dados<br>Ganhador do premio Santander - Foco na Excelência (2023) Na Categoria Risk Pro;<br>Projeto: Portal de Dashs ESC Gestão orientada a dados.<br><br>➡ Confira meu GitHub: <br>github.com/Arrudxx<br><br>✍️ Habilidades:<br>Python: Processos completos de ETL, Interação com API, Big Data<br>SQL: Extração e análise de dados<br>Power BI: Criação de dashboards<br>Data Lake e Databricks: Conhecimento em gerenciamento e análise de grandes volumes de dados<br>Inglês: Intermediário, com rápida capacidade de aprendizado<br><br>📧 Contato: Vamos bater um papo? Sinta-se à vontade para se conectar aqui ou entrar em contato: d4niel.arruda@gmail.com</p>
+
+###
+
+<h2 align="center">Sempre Codando em</h2>
+
+###
 
 <div align="center">
-  <a href="https://github.com/Arrudxx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arrudxx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arrudxx&layout=compact&langs_count=7&theme=algolia"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-<div align="center"><br>
-  <img align="center" alt="Icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Icon-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Icon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Icon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+###
+
+<h2 align="center">Vamos Bater um Papo?</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/daniel-arruda-devpython/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="d4niel.arruda@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
-##
-
-<div align="center"> 
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:d4niel.arruda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/daniel-arruda-4623331a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-
-  ![Snake animation](https://github.com/Arrudxx/Arrudxx/blob/output/github-contribution-grid-snake.svg)
-
-
-
+###
