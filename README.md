@@ -1,4 +1,4 @@
-<h1 align="center">Olá Me Chamo Daniel Arruda 😎</h1>
+<h1 align="left">Olá Me Chamo Daniel Arruda 😎</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center">Sobre Mim</h2>
+<h2 align="left">Sobre Mim</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="center">Sempre Codando em</h2>
+<h2 align="left">Sempre Codando em</h2>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<h2 align="center">Vamos Bater um Papo?</h2>
+<h2 align="left">Vamos Bater um Papo?</h2>
 
 ###
 
