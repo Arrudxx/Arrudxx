@@ -1,18 +1,14 @@
 # 👋 Hi there, I'm Daniel Arruda
 
-Welcome to my GitHub! Here you'll find my personal and professional projects focused on data engineering, Python automation, API integration, and data visualization. I'm passionate about turning data into efficient solutions and valuable insights.
+Welcome to my GitHub! Here you'll find my personal and professional projects focused on data engineering, Python automation, API integration and backend
 
 ---
 
 ## 🧠 About Me
 
-I'm a Mid-Level Developer with a strong focus on data and automation, building smart and scalable solutions. I have solid experience with end-to-end ETL processes, RESTful API integration, Data Lake management, and dashboard creation using Power BI.
+I'm a Mid-Level Developer with a strong focus on data and automation, building smart and scalable solutions. I have solid experience with end-to-end ETL processes, RESTful API integration and Data Lake management.
 
 My main stack includes Python, SQL, Git, and Power BI, with a strong background in data analysis, automation using Selenium and Pandas, and developing tools that support data-driven decision-making in enterprise environments.
-
-Currently, I work at Grupo Santander (Tools Digital Services), where I'm responsible for creating Python scripts and analytical solutions that drive business impact. I've been recognized with awards such as "Focus on Quality" and "Employee of the Year" for leading data-oriented projects.
-
-I'm also committed to continuous learning. I've completed certifications in Data Engineering and Data Analysis and I'm preparing for an international exchange in Canada to improve my English and develop key soft skills.
 
 ---
 
